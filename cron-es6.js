@@ -187,7 +187,7 @@ let CronJob = (() => {
     }
   }
 
-  return { CronJob };
+  return CronJob;
 })();
 
 export default CronJob;
